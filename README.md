@@ -13,6 +13,7 @@ Game Discovery allows users to search for games of different types of genres. It
 * Created services folder to abstract calls to the api client as well as a function to optimise image sizes.
 * Utilised skeleton components improving UX when data is being fetched from the API.
 * Handled error states.
+* Added toggle for light/dark mode.
 
 ## Future Tasks
 * Extend functionality to allow clickable game cards to redirect to another page.
